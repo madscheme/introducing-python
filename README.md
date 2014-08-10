@@ -2,8 +2,7 @@ introducingpython
 =================
 
 
-This repository contaisn the programs featured in
-"An introduction to Python".
+This repository contains the programs featured in _Introducing Python_.
 
 |directory|chapter|
 |---|---|
