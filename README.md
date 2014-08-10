@@ -1,6 +1,5 @@
-introducingpython
+Introducing Python
 =================
-
 
 This repository contains the programs featured in _Introducing Python_.
 
