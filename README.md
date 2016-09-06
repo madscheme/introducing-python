@@ -2,6 +2,7 @@ Introducing Python
 =================
 
 This repository contains the programs featured in _Introducing Python_.
+Some examples have been updated for the second and third printings.
 
 |directory|chapter|
 |---|---|
